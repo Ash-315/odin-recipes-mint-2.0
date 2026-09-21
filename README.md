@@ -1,1 +1,1 @@
-# odin-recipes-mint-2.0
+This is a project where I create a static website that shows recipes for some of my favorite dishes. The website will be created using only static HTML for now (maybe not a website really then...).
